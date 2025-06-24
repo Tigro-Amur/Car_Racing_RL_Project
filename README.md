@@ -29,6 +29,11 @@
   
 ![image](https://github.com/user-attachments/assets/cb8ba30d-1994-4d2a-a8bc-bf0c97d32b5d)
 
+## 🎧 Conclusions
+- PPO outperformed other algorithms due to its stable, incremental policy updates and robust learning structure.
+- Agents trained with grayscale and resized images showed better adaptation and higher scores in night driving environments.
+- These results highlight PPO's effectiveness in domain generalization from day to night conditions.
+
 
 ## 🔍 Project Poster
 
