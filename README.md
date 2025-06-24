@@ -20,7 +20,7 @@
 - Night Driving Test Environment: Reduced image brightness and altered track area color palettes to dark blue to decrease color correlations from training.
 
 ## 📊 Evaluations
-- Exploraiton performance
+- Exploration performance
   
 ![image](https://github.com/user-attachments/assets/780135b9-f4b2-4097-8f63-12312701b49b)
 
