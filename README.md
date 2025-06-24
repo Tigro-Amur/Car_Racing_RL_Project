@@ -1,7 +1,6 @@
-# Car_Racing_RL_Project
-
-## 🥇 The goal of the project
-- Compare RL algorithms (PPO, SAC, DQN, DDPG, A2C) on exploration, stability, and domain generalization
+# 🥇 Motivation
+- CarRacing-v2: A challenging RL benchmark for continuous control and high-dimensional image observations.
+- Goal: Compare RL algorithms (PPO, SAC, DQN, DDPG, A2C) on exploration, stability, and domain generalization.
 
 ## 📢 Contributions
 - Quantitative and Qualitative comparison of leading RL algorithms under challenging conditions.
