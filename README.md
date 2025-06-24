@@ -8,17 +8,19 @@
 - Discrete action wrapping enables DQN vs actor-critic RL comparison in continuous control.
 - Domain Generalization Test: testing in low-light environments after training with original/grayscale images.
 
-## 📢 Methods
+## 💡 Methods
 ### ⭐ MDP and Discrete Action Wrapping
 ![image](https://github.com/user-attachments/assets/6c378422-cecb-4c2f-8c13-a91272d2a807)
 
 - We designed a Discrete Action Wrapper mapping discrete actions to continuous controls, enabling DQN to learn in CarRa:cing-v2.
 
 ### 🌙 Domain Generalization Test (Day to Night)
+![image](https://github.com/user-attachments/assets/812a2ed6-c170-4cae-bed5-2e9b09cff7f3)
+
 - Training: Trained with Original images/Grayscale images with Resizing
 - Night Driving Test Environment: Reduced image brightness and altered track area color palettes to dark blue to decrease color correlations from training.
 
-## 💡 Evaluations
+## 📊 Evaluations
 - Exploraiton performance
   
 ![image](https://github.com/user-attachments/assets/780135b9-f4b2-4097-8f63-12312701b49b)
