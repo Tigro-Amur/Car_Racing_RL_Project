@@ -1,4 +1,6 @@
-# 🥇 Motivation
+# From A2C to SAC: RL Algorithm and Neural Architecture Performance in CarRacing-v2
+
+## 🥇 Motivation
 - CarRacing-v2: A challenging RL benchmark for continuous control and high-dimensional image observations.
 - Goal: Compare RL algorithms (PPO, SAC, DQN, DDPG, A2C) on exploration, stability, and domain generalization.
 
