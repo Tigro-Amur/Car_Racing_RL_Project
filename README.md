@@ -10,7 +10,7 @@
 
 ## 💡 Methods
 ### ⭐ MDP and Discrete Action Wrapping
-![image](https://github.com/user-attachments/assets/6c378422-cecb-4c2f-8c13-a91272d2a807)
+![image](https://github.com/user-attachments/assets/e0b45dcf-eb04-48f0-8d7f-bbdbc3a96383)
 
 - We designed a Discrete Action Wrapper mapping discrete actions to continuous controls, enabling DQN to learn in CarRa:cing-v2.
 
